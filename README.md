@@ -3,6 +3,7 @@ Created by: Miranda Acon and Natalia De Prisco
 Project Overview
 This project is a Python application designed to help students track their academic performance. Users can add courses, record assignment grades, track study hours, and analyze their results using Pandas.
 Features
+
     •    Add and remove courses
 
 
@@ -21,6 +22,7 @@ Features
 Python Concepts Used
 Functions, loops, conditionals, dictionaries, lists, object-oriented programming, exception handling, and Pandas.
 How to Run
+
     1    Open the project notebook in Google Colab.
 
 
