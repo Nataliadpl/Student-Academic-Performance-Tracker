@@ -25,6 +25,19 @@ An interactive Python application built to help students monitor and analyze the
 2. Select **Runtime > Run all** to initialize the classes and functions.
 3. Follow the interactive console menu (Options **1–12**) to input courses, grades, and study sessions or generate reports.
 
+   ## Step by Step Instruction for Success
+1. **Open the Notebook:** Click on `Student_Academic_Performance_Tracker.ipynb` in this repository and open it in **Google Colab**.
+2. **Start the Program:** In Google Colab, click **Runtime > Run all** in the top menu to load the classes, functions, and interactive menu.
+3. **Follow the Recommended Workflow:**
+   * **Step 1 — Add Your Courses:** Start by adding at least one course so the system can store your records.
+   * **Step 2 — Log Your Data:** Record your assignments (Exam, Quiz, or Homework) and log your study sessions with dates and hours.
+   * **Step 3 — View Analytics & Reports:** Check your academic standing, generate a Pandas summary report, or view Matplotlib graphs to see how your study hours compare to your grades.
+4. **Navigate the 12 Menu Options:** Type a number from **1 to 12** when prompted and press **Enter**:
+   * **Options 1–4 (Course & Grade Management):** Add courses, record assignments, view course assignments, and check academic standing.
+   * **Options 5–8 (Study Session Tracking):** Log study hours, view study sessions, calculate total study time, and remove courses.
+   * **Options 9–11 (Reports & Visualizations):** Generate the Pandas Academic Performance Report and display visual charts.
+   * **Option 12 (Exit):** Safely close the interactive menu.
+
 ## Team Contributions
 * **Miranda Acon:** Designed the `Course` OOP architecture, course management functions, assignment tracking, grade calculations, and academic standing logic.
 * **Natalia De Prisco:** Built the study-hour and session logging system, Pandas analytical reporting, and Matplotlib visualizations.
